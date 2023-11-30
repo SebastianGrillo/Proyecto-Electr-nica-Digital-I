@@ -1,4 +1,4 @@
-module displays(input clk, 
+module displays(input clk,  
 					 input [26:0] dist,
 					 output reg [6:0] display1,
 					 output reg [6:0] display2,
