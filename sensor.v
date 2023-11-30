@@ -1,4 +1,4 @@
-module sensor (
+module sensor ( 
 	input clk, //El reloj de la FPGA es de 50M
 	input Eco,
 	input llenado,
